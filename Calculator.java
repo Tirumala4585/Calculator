@@ -69,7 +69,7 @@ public class Calculator {
 	            System.out.println("Invalid Choice! Please enter a number between 1-5.");
 	      }
 	  }
-      scanner.close();
-	}
+          scanner.close();
+     }
 }
 
